@@ -1,4 +1,5 @@
 # README Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Description
@@ -8,19 +9,19 @@ This app will generate a README file.
 
 ## Table of Contents 
 
-* [Installation](#installation)
+* [Installation](#Installation)
 
-* [Usage](#usage)
+* [Usage](#Usage)
 
-* [Contributing](#contributing)
+* [License](#License)
 
-* [Tests](#tests)
+* [Contributing](#Contributing)
 
-* [Respsitory](#repository)
+* [Tests](#Tests)
 
-* [Website](#website)
+* [Repository](#Repository)
 
-* [Questions](#questions)
+* [Questions](#Questions)
 
 
 ## Installation:
@@ -34,13 +35,12 @@ npm i
 
 ## Usage
 
-Run the following command:
+Run command: `node index.js`.  Answer all the prompts/questions and a README file will be generated.
 
-```bash
-node index.js
-```
 
-Answer all the questions and a README file will be generated.
+## License:
+
+This app is licensed under the MIT license.
 
 
 ## Contributing:
@@ -59,15 +59,10 @@ npm test
 
 ## Repository:
 
-url@github.com
-
-
-## Website:
-
-N/A
+[https://github.com/jrdrenth/ReadMeGenerator](https://github.com/jrdrenth/ReadMeGenerator)
 
 
 ## Questions:
 
-If you have any questions, you can contact me at john.drenth@gmail.com.  My github profile can be found at [https://github.com/jrdrenth/](https://github.com/jrdrenth/).
+If you have any questions, please contact me at john.drenth@gmail.com.  My github profile can be found at [https://github.com/jrdrenth/](https://github.com/jrdrenth/).
 

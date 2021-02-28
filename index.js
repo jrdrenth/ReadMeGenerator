@@ -28,7 +28,8 @@ const questions = [{
   }, {
     name: 'contributing',
     type: 'input',
-    message: 'Provide info for contributions to the app:'
+    message: 'Provide info for contributions to the app:',
+    default: 'N/A'
   }, {
     name: 'tests',
     type: 'input',
@@ -37,11 +38,13 @@ const questions = [{
   }, {
     name: 'repository',
     type: 'input',
-    message: 'What is the url to the repository?'
+    message: 'What is the url to the repository?',
+    default: 'N/A'
   }, {
     name: 'website',
     type: 'input',
-    message: 'What is the url to the website?'
+    message: 'What is the url to the website?',
+    default: 'N/A'
   }, {
     name: 'github',
     type: 'input',
