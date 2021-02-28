@@ -35,7 +35,10 @@ npm i
 
 ## Usage
 
-Run command: `node index.js`.  Answer all the prompts/questions and a README file will be generated.
+Run the command: 'node index.js`.  Answer all the prompts/questions and a README file will be generated.
+
+
+Please find walkthrough demonstation of how to use this app at: [https://drive.google.com/file/d/1qH30Tg4wW8irmSE6mIdhlwbsws5r9heF/view](https://drive.google.com/file/d/1qH30Tg4wW8irmSE6mIdhlwbsws5r9heF/view).
 
 
 ## License:
